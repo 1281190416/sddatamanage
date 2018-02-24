@@ -1,0 +1,45 @@
+html, body{ height:100%;  }
+body {
+    position: relative;
+    max-width: 1920px;
+
+}
+
+#container #content{
+    height:100%;
+    overflow-y: hidden;
+}
+.font-custom {
+    font-family: '微软雅黑 Regular', '微软雅黑';
+}
+#addNewProdByPop{
+    margin-top: 10px;
+}
+
+#productListContent {
+    text-align: center;
+    background-color: #48A6DA;
+    height:555px;
+
+}
+#div_prod_list {
+    margin-top: 20px;
+    font-size: large;
+    font-family: "Microsoft YaHei", serif;
+    /*font-weight: bold;*/
+
+}
+
+.no-padding-margin {
+    margin: 0;
+    padding: 0;
+}
+
+#div_prod_detail{
+    font-family: "Microsoft YaHei", serif;
+    /*font-weight: bold;*/
+    /*font-size: large;*/
+    margin-left: 150px;
+    margin-top: 50px;
+
+}
